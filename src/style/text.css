@@ -1,0 +1,16 @@
+.custombtn1{
+   display: flex;
+   padding: 2px;
+   
+   justify-content: space-between;
+   flex-direction: column;
+}
+.custombtn{
+    background-color: rgb(67, 74, 74);
+}
+.btn1{
+    width:31%;
+    margin: 2px;
+    border: none;
+    border-radius: 5px;
+}
